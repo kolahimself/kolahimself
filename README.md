@@ -1,1 +1,1 @@
-Civil Engineering undergrad, actively exploring and making tools that solve & automate engineering problems. Author of [OptiMix](https://github.com/kolahimself/OptiMix), a concrete mix design software.
+Civil Engineering grad student, UNH. Actively exploring and making tools that solve & automate engineering problems. Author of [OptiMix](https://github.com/kolahimself/OptiMix), a concrete mix design software.
